@@ -12,6 +12,8 @@
 	<div>관리자</div>
 </header>
 <article>본문 입니다</article>
+    <section>기사1</section>
+	<section>기사2</section>
 <footer>푸터 입니다</footer>
 </body>
 </html>
